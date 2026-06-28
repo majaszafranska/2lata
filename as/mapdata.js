@@ -72,12 +72,12 @@ var simplemaps_continentmap_mapdata={
     link_text: "View Website"
   },
   state_specific: {
-    EU: {
-      name: "Europa",
-      color: "#ffd166",
-      hover_color: "#f4a261",
-      description: "2024 - 2026"
-    },
+    // EU: {
+    //   name: "Europa",
+    //   color: "#ffd166",
+    //   hover_color: "#f4a261",
+    //   description: "2024 - 2026"
+    // },
     SS: {
       name: "Azja",
       color: "#ffd166",
