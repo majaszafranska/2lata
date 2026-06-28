@@ -53,19 +53,19 @@ var simplemaps_continentmap_mapdata={
     zoom_percentage: 0.99,
     zoom_time: 0.5,
     
-		//Popup settings
-		popup_color: "white",
+	//Popup settings
+	popup_color: "white",
     popup_opacity: 0.9,
     popup_shadow: 1,
     popup_corners: 5,
     popup_font: "12px/1.5 Verdana, Arial, Helvetica, sans-serif",
     popup_nocss: "no",
     
-		//Advanced settings
-		div: "map",
+	//Advanced settings
+	div: "map",
     auto_load: "yes",
     rotate: "0",
-    url_new_tab: "yes",
+    url_new_tab: "no",
     images_directory: "default",
     import_labels: "no",
     fade_time: 0.1,
@@ -73,18 +73,16 @@ var simplemaps_continentmap_mapdata={
   },
   state_specific: {
     EU: {
-      name: "Europe",
-      description: "default",
-      color: "#FF3366",
-      hover_color: "#c0264d",
-      url: "default"
+      name: "Europa",
+      color: "#ffd166",
+      hover_color: "#f4a261",
+      description: "2024 - 2026"
     },
     SS: {
-      name: "South Asia",
-      description: "default",
-      color: "#FF6633",
-      hover_color: "#ac4422",
-      url: "default"
+      name: "Azja",
+      color: "#ffd166",
+      hover_color: "#f4a261",
+      description: "maj 2026"
     }
   },
   locations: {
@@ -102,8 +100,8 @@ var simplemaps_continentmap_mapdata={
     },
     "2": {
       name: "Lintong",
-      lat: 34.3416,
-      lng: 108.9398,
+      lat: 34.3840,
+      lng: 109.2733,
       description: "Armia Terakotowa",
     }
   },
