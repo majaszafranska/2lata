@@ -265,7 +265,7 @@ var simplemaps_europemap_mapdata={
       lat: "52.2297",
       lng: "21.0122",
       name: "Warszawa",
-      description: "Domek ♡"
+      description: "Domek ♡ i Rocznica ②"
     },
     "4": {
       name: "Szczecin",
@@ -338,12 +338,6 @@ var simplemaps_europemap_mapdata={
       lng: "20.3020",
       name: "Krośnica",
       description: "Larpowe urodziny 🂡"
-    },
-    "16": {
-      lat: "52.7015",
-      lng: "23.8386",
-      name: "Białowieża",
-      description: "Rocznica ②"
     }
   },
   regions: {},
